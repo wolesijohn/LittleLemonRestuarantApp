@@ -145,6 +145,3 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.SessionAuthentication',
     ]
 }
-REST_FRAMEWORK = {
-    
-}
